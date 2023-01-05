@@ -5418,7 +5418,7 @@
   "gamerule.category.player": "Player",
   "gamerule.category.misc": "Miscellaneous",
   "pack.source.builtin": "built-in",
-  "pack.source.world": "world",
+  "pack.source.world": "世界",
   "pack.source.local": "local",
   "pack.source.server": "server",
   "mirror.none": "|",
