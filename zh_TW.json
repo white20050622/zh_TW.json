@@ -7,7 +7,7 @@
   "narrator.button.difficulty_lock": "Difficulty lock",
   "narrator.button.difficulty_lock.unlocked": "Unlocked",
   "narrator.button.difficulty_lock.locked": "Locked",
-  "narrator.screen.title": "Title Screen",
+  "narrator.screen.title": "標題畫面",
   "narrator.controls.reset": "Reset %s button",
   "narrator.controls.bound": "%s is bound to %s",
   "narrator.controls.unbound": "%s is not bound",
