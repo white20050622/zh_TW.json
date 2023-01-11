@@ -530,7 +530,7 @@
   "chat.disabled.profile": "Chat not allowed by account settings. Press '%s' again for more information",
   "chat.disabled.profile.moreInfo": "Chat not allowed by account settings. Cannot send or view messages.",
   "chat.disabled.expiredProfileKey": "Chat disabled due to expired profile public key. Please try reconnecting.",
-  "chat.previewInput": "按下 [%s] 來預覽",
+  "chat.previewInput": "按下 %s 來預覽",
   "chat.type.text": "<%s> %s",
   "chat.type.text.narrate": "%s says %s",
   "chat.type.emote": "* %s %s",
